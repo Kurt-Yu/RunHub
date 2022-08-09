@@ -1,0 +1,17 @@
+.content {
+  margin-top: 64px;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.title {
+  font-size: 48px;
+  color: #1890ff;
+}
+
+.gutter-box {
+  padding: 8px 0;
+  background: #00a0e9;
+}

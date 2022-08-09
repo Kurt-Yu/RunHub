@@ -1,0 +1,10 @@
+.logo {
+  width: 128px;
+  font-size: 24px;
+  font-weight: bolder;
+  color: #1890ff;
+}
+
+.logo:hover {
+  cursor: pointer;
+}
